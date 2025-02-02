@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "text": "完成編寫報告",
+    "text": "php",
     "done": false
   },
   {
     "id": 2,
-    "text": "回復客戶的郵件",
+    "text": "js",
     "done": true
   },
   {
     "id": 3,
-    "text": "開會討論項目進度",
+    "text": "python",
     "done": false
   },
   {
     "id": 4,
-    "text": "更新代碼庫",
+    "text": "java",
     "done": false
   },
   {
     "id": 5,
-    "text": "學習react",
+    "text": "react",
     "done": true
   }
 ]
