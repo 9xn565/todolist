@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "snapshot_name": "snapshot_01",
+    "owner_name": "user1"
+  },
+  {
+    "id": 2,
+    "snapshot_name": "snapshot_02",
+    "owner_name": "user2"
+  },
+  {
+    "id": 3,
+    "snapshot_name": "snapshot_03",
+    "owner_name": "user3"
+  },
+  {
+    "id": 4,
+    "snapshot_name": "snapshot_04",
+    "owner_name": "user4"
+  },
+  {
+    "id": 5,
+    "snapshot_name": "snapshot_05",
+    "owner_name": "user5"
+  },
+  {
+    "id": 6,
+    "snapshot_name": "snapshot_06",
+    "owner_name": "user6"
+  },
+  {
+    "id": 7,
+    "snapshot_name": "snapshot_07",
+    "owner_name": "user7"
+  },
+  {
+    "id": 8,
+    "snapshot_name": "snapshot_08",
+    "owner_name": "user8"
+  },
+  {
+    "id": 9,
+    "snapshot_name": "snapshot_09",
+    "owner_name": "user9"
+  },
+  {
+    "id": 10,
+    "snapshot_name": "snapshot_10",
+    "owner_name": "user10"
+  },
+  {
+    "id": 11,
+    "snapshot_name": "snapshot_11",
+    "owner_name": "user11"
+  },
+  {
+    "id": 12,
+    "snapshot_name": "snapshot_12",
+    "owner_name": "user12"
+  },
+  {
+    "id": 13,
+    "snapshot_name": "snapshot_13",
+    "owner_name": "user13"
+  },
+  {
+    "id": 14,
+    "snapshot_name": "snapshot_14",
+    "owner_name": "user14"
+  },
+  {
+    "id": 15,
+    "snapshot_name": "snapshot_15",
+    "owner_name": "user15"
+  },
+  {
+    "id": 16,
+    "snapshot_name": "snapshot_16",
+    "owner_name": "user16"
+  },
+  {
+    "id": 17,
+    "snapshot_name": "snapshot_17",
+    "owner_name": "user17"
+  },
+  {
+    "id": 18,
+    "snapshot_name": "snapshot_18",
+    "owner_name": "user18"
+  },
+  {
+    "id": 19,
+    "snapshot_name": "snapshot_19",
+    "owner_name": "user19"
+  },
+  {
+    "id": 20,
+    "snapshot_name": "snapshot_20",
+    "owner_name": "user20"
+  }
+]
